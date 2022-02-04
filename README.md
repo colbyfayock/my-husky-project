@@ -1,14 +1,15 @@
-# Automate Prettier with Husky Git Commit Hooks Demo
+# Automate Pretitter using Git Commit Hooks with Husky
 
-Demo for tutorials that help you learn how to automate running Prettier on Git Commit hooks using Husky.
+Demo for tutorial [How to Add Commit Hooks to Git with Husky to Automate Code Tasks](https://www.youtube.com/watch?v=tuzys2b1J70)
 
-Learn how to create your own with [Git Commit Hooks with Husky - Format with Prettier on Pre-Commit Tutorial](https://www.youtube.com/watch?v=tuzys2b1J70)
+📝 Article: https://www.freecodecamp.org/news/how-to-add-commit-hooks-to-git-with-husky-to-automate-code-tasks/
 
-## Getting started locally
-* `yarn install`
-* `yarn dev`
-* 🚀
+📺 YouTube: https://www.youtube.com/watch?v=tuzys2b1J70
 
 ## More tutorials and walkthroughs
-* [Follow me on Twitter](https://twitter.com/colbyfayock)
-* [Subscribe on YouTube](https://www.youtube.com/colbyfayock)
+
+🐦 [Follow me on Twitter](https://twitter.com/colbyfayock)
+
+📺 [Subscribe on YouTube](https://www.youtube.com/colbyfayock)
+
+✉️ [Sign Up for My Newsletter](https://colbyfayock.com/newsletter)
